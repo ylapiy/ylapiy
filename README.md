@@ -4,7 +4,13 @@
    <h3>Seja Bem vindo!!!</h3>
 </div>
 <div>
-   <img 
+   <img src = "Sprite-c icone.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-javafundopreto.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-pytomba.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-html icone.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-css icon.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-iconegamermaker.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-asesprite.jpg" height = "50" whidth = "50">
    
      
 </div>

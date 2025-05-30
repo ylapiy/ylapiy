@@ -9,8 +9,8 @@
    <img src = "Sprite-pytomba.jpg" height = "50" whidth = "50">
    <img src = "Sprite-html icone.jpg" height = "50" whidth = "50">
    <img src = "Sprite-css icon.jpg" height = "50" whidth = "50">
+   <img src = "Sprite-javascripticone.jpg" height = "50" whidth = "50">
    <img src = "Sprite-iconegamermaker.jpg" height = "50" whidth = "50">
-   
      
 </div>
 <div>

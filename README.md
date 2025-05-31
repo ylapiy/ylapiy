@@ -5,12 +5,19 @@
 </div>
 <div>
    <img src = "Sprite-c icone.png" height = "70" whidth = "70">
+   <img src = "Sprite-c icone.jpg" height = "70" whidth = "70">
+   <img src = "Sprite-javafundopreto.jpg" height = "70" whidth = "70">
    <img src = "Sprite-javafundopreto.jpg" height = "70" whidth = "70">
    <img src = "Sprite-pytomba.jpg" height = "70" whidth = "70">
+   <img src = "Sprite-pytomba.jpg" height = "70" whidth = "70">
+   <img src = "Sprite-html icone.jpg" height = "70" whidth = "70">
    <img src = "Sprite-html icone.jpg" height = "70" whidth = "70">
    <img src = "Sprite-css icon.jpg" height = "70" whidth = "70">
+   <img src = "Sprite-css icon.jpg" height = "70" whidth = "70">
+   <img src = "Sprite-javascripticone.jpg" height = "70" whidth = "70">
    <img src = "Sprite-javascripticone.jpg" height = "70" whidth = "70">
    <img src = "Sprite-iconegamermaker.jpg" height = "70" whidth = "70">
+    <img src = "Sprite-iconegamermaker.jpg" height = "70" whidth = "70">
      
 </div>
 <div>

@@ -10,15 +10,15 @@
 </div>
 <div>
 
-   <img src = "Sprite-c icone.png" height = "70" whidth = "70">
-   <img src = "Sprite-javafundopreto.png" height = "70" whidth = "70">
-   <img src = "Sprite-pytomba.png" height = "70" whidth = "70">
-   <img src = "Sprite-html icone.png" height = "70" whidth = "70">
-   <img src = "Sprite-css icon.png" height = "70" whidth = "70">
-   <img src = "Sprite-javascripticone.png" height = "70" whidth = "70">
-   <img src = "Sprite-iconegamermaker.png" height = "70" whidth = "70">
-   <img src = "Sprite-powerbi.png" height = "70" whidth = "70">
-   <img src = "Sprite-fluter.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-c icone.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-javafundopreto.png" height = "70" whidth ="70">
+   <img src = "pngs\Sprite-pytomba.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-html icone.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-css icon.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-javascripticone.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-iconegamermaker.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-powerbi.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-fluter.png" height = "70" whidth = "70">
   
 </div>
 <div>

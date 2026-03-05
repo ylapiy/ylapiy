@@ -17,8 +17,8 @@
    <img src = "pngs\Sprite-css icon.png" height = "70" whidth = "70">
    <img src = "pngs\Sprite-javascripticone.png" height = "70" whidth = "70">
    <img src = "pngs\Sprite-iconegamermaker.png" height = "70" whidth = "70">
-   <img src = "pngs\Sprite-powerbi.png" height = "70" whidth = "70">
    <img src = "pngs\Sprite-fluter.png" height = "70" whidth = "70">
+   <img src = "pngs\Sprite-powerbi.png" height = "70" whidth = "70">
   
 </div>
 <div>

@@ -65,60 +65,23 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ## 📌 Projetos em Destaque
 
-### 🛣️ Desemburaca Teresina
+## 📌 Projetos em Destaque
 
-* Sistema de denúncia de buracos urbanos
-* Aplicação web com suporte offline (PWA) e versão para aplicativo nativo
-* Envio de dados e imagens com localização
-* Integração com PostgreSQL e Google Drive
-* Sincronização automática quando a conexão retorna
 
----
+| Projeto | Descrição | Tecnologias/Detalhes |
+| :--- | :--- | :--- |
+| **🛣️ Desemburaca Teresina** | Sistema de denúncia de buracos urbanos | PWA, App nativo, PostgreSQL, Google Drive |
+| **☁️ NortePlan_API** | Backend para empresa de engenharia | Node.js, OAuth 2.0, Upload automatizado |
+| **🏭 Simulador de Prédio Industrial** | Simulação de estruturas e organização industrial | Java, POO, Lógica de negócio |
+| **📊 Dashboard HU-UFPI (Power BI)** | Análise de dados e criação de dashboards | Power BI, Indicadores e métricas |
+| **⚖️ Site para Advocacia** | Desenvolvimento de site institucional | HTML, CSS, JavaScript responsivo |
 
-### ☁️ NortePlan_API
-
-* Backend para empresa de engenharia
-* API desenvolvida em Node.js
-* Autenticação com OAuth 2.0
-* Upload automatizado de arquivos
-* Integração com serviços externos
-
----
-
-### 🏭 Simulador de Prédio Industrial
-
-* Sistema desenvolvido em Java
-* Simulação de estruturas e organização de um ambiente industrial
-* Aplicação de conceitos de Programação Orientada a Objetos
-* Foco em modelagem de sistemas e lógica de negócio
-
----
-
-### 📊 Dashboard HU-UFPI (Power BI)
-
-* Projeto de análise de dados utilizando Power BI
-* Criação de dashboards interativos
-* Visualização de indicadores e métricas
-* Foco em apoio à tomada de decisão baseada em dados
-
----
-
-### ⚖️ Site para Advocacia
-
-* Desenvolvimento de site institucional
-* Interface responsiva utilizando HTML, CSS e JavaScript
-* Estrutura voltada para apresentação de serviços jurídicos
-* Foco em usabilidade e experiência do usuário
-
----
-
-## 🎯 Objetivos
+🎯 Objetivos
 
 * 🔐 Evoluir na área de **Segurança da Informação**
 * 📊 Aprofundar conhecimentos em **Análise de Dados**
 * ⚙️ Fortalecer habilidades em **Backend**
 * 🚀 Trabalhar com sistemas robustos e escaláveis
-
----
+* 
 
 💬 Sempre aberto a oportunidades e conexões.

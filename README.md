@@ -1,11 +1,12 @@
-
 # 👋 Olá, eu sou Ygor Jivago Leal Félix
 
 💻 **Desenvolvedor Backend | Segurança | Análise de Dados**
 
-Sou estudante de Tecnologia da Informação com foco em desenvolvimento de software, com experiência prática na construção de APIs, manipulação de dados e integração com serviços externos.
+Sou estudante de Engenharia de Software com foco em desenvolvimento de software, com experiência prática na construção de APIs, manipulação de dados e integração com serviços externos.
 
 Atualmente, estou direcionando minha carreira para as áreas de **backend, segurança da informação e análise de dados**, buscando desenvolver soluções seguras, eficientes e orientadas a dados.
+
+---
 
 ## 🚀 Sobre mim
 
@@ -16,17 +17,21 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * 🔐 Interesse em segurança de aplicações
 * 📚 Aprendizado contínuo com projetos práticos
 
+---
+
 ## 🧠 Habilidades
 
 * Desenvolvimento de APIs REST
 * Programação Orientada a Objetos (POO)
-* Exper
+* Estruturas de Dados (Árvore AVL)
 * Manipulação e persistência de dados
 * Integração com APIs externas (Google APIs)
 
-##
+---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
+
+### 📊 Dados & Ferramentas
 
 <div>
   <img src="pngs/Sprite-powerbi.png" height="60">
@@ -59,12 +64,14 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * ☁️ Google Drive API (OAuth 2.0)
 * 🔧 Git & GitHub
 
+---
+
 ## 📌 Projetos em Destaque
 
 ### 🛣️ Desemburaca Teresina
 
-* Sistema de Denúncia de Buracos de rua
-* Aplicação web com suporte offline (PWA)
+* Sistema de denúncia de buracos urbanos
+* Aplicação web com suporte offline (PWA) e versão para aplicativo nativo
 * Envio de dados e imagens com localização
 * Integração com PostgreSQL e Google Drive
 * Sincronização automática quando a conexão retorna
@@ -73,20 +80,40 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ### ☁️ NortePlan_API
 
-* Backend e api para empresa de engenharia
-* Backend em Node.js
+* Backend para empresa de engenharia
+* API desenvolvida em Node.js
 * Autenticação com OAuth 2.0
 * Upload automatizado de arquivos
 * Integração com serviços externos
 
 ---
 
-### 🌳 Simulador de Predio Industrial
+### 🏭 Simulador de Prédio Industrial
 
+* Sistema desenvolvido em Java
+* Simulação de estruturas e organização de um ambiente industrial
+* Aplicação de conceitos de Programação Orientada a Objetos
+* Foco em modelagem de sistemas e lógica de negócio
 
 ---
 
-### 
+### 📊 Dashboard HU-UFPI (Power BI)
+
+* Projeto de análise de dados utilizando Power BI
+* Criação de dashboards interativos
+* Visualização de indicadores e métricas
+* Foco em apoio à tomada de decisão baseada em dados
+
+---
+
+### ⚖️ Site para Advocacia
+
+* Desenvolvimento de site institucional
+* Interface responsiva utilizando HTML, CSS e JavaScript
+* Estrutura voltada para apresentação de serviços jurídicos
+* Foco em usabilidade e experiência do usuário
+
+---
 
 ## 🎯 Objetivos
 
@@ -95,9 +122,26 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * ⚙️ Fortalecer habilidades em **Backend**
 * 🚀 Trabalhar com sistemas robustos e escaláveis
 
-## 📬 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN_AQUI)
+## 📬 Contato  
+
+<div align="center">  
+
+  <a href="https://www.linkedin.com/in/ygor-jivago-1223252ba/" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />  
+  </a>  
+
+  <a href="https://wa.me/558694822455" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="28" />  
+  </a>  
+
+  <a href="https://instagram.com/SEUUSER" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="28" />  
+  </a>  
+
+</div>
+
 
 ---
 

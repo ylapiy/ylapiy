@@ -28,8 +28,6 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * 🔐 Interesse em segurança de aplicações
 * 📚 Aprendizado contínuo com projetos práticos
 
----
-
 ## 🧠 Habilidades
 
 * Desenvolvimento de APIs REST
@@ -65,9 +63,6 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ## 📌 Projetos em Destaque
 
-## 📌 Projetos em Destaque
-
-
 | Projeto | Descrição | Tecnologias/Detalhes |
 | :--- | :--- | :--- |
 | **🛣️ Desemburaca Teresina** | Sistema de denúncia de buracos urbanos | PWA, App nativo, PostgreSQL, Google Drive |
@@ -82,6 +77,5 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * 📊 Aprofundar conhecimentos em **Análise de Dados**
 * ⚙️ Fortalecer habilidades em **Backend**
 * 🚀 Trabalhar com sistemas robustos e escaláveis
-* 
-
+ 
 💬 Sempre aberto a oportunidades e conexões.

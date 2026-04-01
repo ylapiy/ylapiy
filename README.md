@@ -9,7 +9,7 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de T.I
+* 🎓 Estudante de Engenharia de Software
 * 💡 Foco em **Backend, Segurança e Dados**
 * ⚙️ Experiência com APIs e integração de sistemas
 * 📊 Interesse em análise e tratamento de dados
@@ -20,11 +20,18 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 * Desenvolvimento de APIs REST
 * Programação Orientada a Objetos (POO)
-* Estruturas de Dados (Árvore AVL)
+* Exper
 * Manipulação e persistência de dados
 * Integração com APIs externas (Google APIs)
 
-## 🛠️ Tecnologias
+##
+
+### 🛠️ Tecnologias
+
+<div>
+  <img src="pngs/Sprite-powerbi.png" height="60">
+  <img src="pngs/Sprite-fluter.png" height="60">
+</div>
 
 ### 💻 Linguagens
 
@@ -54,8 +61,9 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ## 📌 Projetos em Destaque
 
-### 🛣️ Sistema de Denúncia de Buracos
+### 🛣️ Desemburaca Teresina
 
+* Sistema de Denúncia de Buracos de rua
 * Aplicação web com suporte offline (PWA)
 * Envio de dados e imagens com localização
 * Integração com PostgreSQL e Google Drive
@@ -63,8 +71,9 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ---
 
-### ☁️ API de Upload com Google Drive
+### ☁️ NortePlan_API
 
+* Backend e api para empresa de engenharia
 * Backend em Node.js
 * Autenticação com OAuth 2.0
 * Upload automatizado de arquivos
@@ -72,11 +81,12 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 ---
 
-### 🌳 Estruturas de Dados em Java
+### 🌳 Simulador de Predio Industrial
 
-* Implementação de Árvore AVL
-* Balanceamento automático
-* Foco em desempenho
+
+---
+
+### 
 
 ## 🎯 Objetivos
 

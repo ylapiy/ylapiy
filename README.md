@@ -73,7 +73,7 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 | **🛣️ Desemburaca Teresina** | Sistema de denúncia de buracos urbanos | PWA, App nativo, PostgreSQL, Google Drive |
 | **☁️ NortePlan_API** | Backend para empresa de engenharia | Node.js, OAuth 2.0, Upload automatizado |
 | **🏭 Simulador de Prédio Industrial** | Simulação de estruturas e organização industrial | Java, POO, Lógica de negócio |
-| **📊 Dashboard HU-UFPI (Power BI)** | Análise de dados e criação de dashboards | Power BI, Indicadores e métricas |
+| **📊 Dashboard HU-UFPI (Power BI)** | Análise de dados e criação de dashboards usando ETL | Power BI, Indicadores e métricas |
 | **⚖️ Site para Advocacia** | Desenvolvimento de site institucional | HTML, CSS, JavaScript responsivo |
 
 🎯 Objetivos

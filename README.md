@@ -1,4 +1,15 @@
-# 👋 Olá, eu sou Ygor Jivago Leal Félix
+# 👋 Olá, eu sou Ygor Jivago Leal Félix 
+
+<div>
+  <a href="https://www.linkedin.com/in/ygor-jivago-1223252ba/" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />  
+  </a>  
+  <a href="https://wa.me/558694822455" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="28" />  
+  </a>  
+</div>
+
+#
 
 💻 **Desenvolvedor Backend | Segurança | Análise de Dados**
 
@@ -23,40 +34,26 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 
 * Desenvolvimento de APIs REST
 * Programação Orientada a Objetos (POO)
-* Estruturas de Dados (Árvore AVL)
 * Manipulação e persistência de dados
 * Integração com APIs externas (Google APIs)
 
 ---
 
-## 🛠️ Tecnologias
-
-### 📊 Dados & Ferramentas
-
-<div>
-  <img src="pngs/Sprite-powerbi.png" height="60">
-  <img src="pngs/Sprite-fluter.png" height="60">
-</div>
-
-### 💻 Linguagens
+### 🛠️ Tecnologias
 
 <div>
   <img src="pngs/Sprite-javafundopreto.png" height="60">
   <img src="pngs/Sprite-javascripticone.png" height="60">
   <img src="pngs/Sprite-pytomba.png" height="60">
   <img src="pngs/Sprite-c icone.png" height="60">
-</div>
-
-### 🌐 Frontend
-
-<div>
   <img src="pngs/Sprite-html icone.png" height="60">
   <img src="pngs/Sprite-css icon.png" height="60">
+  <img src="pngs/Sprite-powerbi.png" height="60">
+  <img src="pngs/Sprite-fluter.png" height="60">
 </div>
 
-### ⚙️ Backend, Dados & Segurança
+##
 
-* ☕ Java (POO e aplicações)
 * 🟢 Node.js
 * 🗄️ PostgreSQL + PostGIS
 * 📊 Manipulação de dados
@@ -123,28 +120,5 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * 🚀 Trabalhar com sistemas robustos e escaláveis
 
 ---
-
-## 📬 Contato  
-
-<div align="center">  
-
-  <a href="https://www.linkedin.com/in/ygor-jivago-1223252ba/" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />  
-  </a>  
-
-  <a href="https://wa.me/558694822455" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="28" />  
-  </a>  
-
-  <a href="https://instagram.com/ygorj.felix" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="28" />  
-  </a>  
-
-</div>
-
-
----
-
-# ⭐ Obrigado por visitar meu perfil!
 
 💬 Sempre aberto a oportunidades e conexões.

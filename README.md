@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 
 # 👋 Olá, eu sou Ygor Jivago Leal Félix
 
@@ -78,12 +77,6 @@ Atualmente, estou direcionando minha carreira para as áreas de **backend, segur
 * Implementação de Árvore AVL
 * Balanceamento automático
 * Foco em desempenho
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ylapiy\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylapiy\&layout=compact\&theme=tokyonight)
 
 ## 🎯 Objetivos
 

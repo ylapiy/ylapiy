@@ -11,7 +11,7 @@
 
 #
 
-💻 **Desenvolvedor Backend | Segurança | Análise de Dados**
+💻 **Desenvolvedor Full-Stack | Segurança | Análise de Dados**
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento de software, com experiência prática na construção de APIs, manipulação de dados e integração com serviços externos.
 
